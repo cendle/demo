@@ -3,4 +3,4 @@ ROOT_DIR=$(pwd)
 echo $PATH
 echo $ROOT_DIR
 
-/usr/local/bin/docker ps
+/Applications/Docker.app/Contents/Resources/bin/docker ps
